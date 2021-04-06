@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Exeercise1Fix</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btnlogin">Login</string>\
+    <string name="btnregist">Belum terdaftar</string>
+    <string name="rname">Masukan Nama</string>
+    <string name="ralamat">Masukan Alamat</string>
+    <string name="remail">Masukan Email</string>
+    <string name="rpasssword">Masukan Password</string>
+    <string name="rrepassword">Masukan Password Lagi</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Notel</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="pendaftaran">Pendaftaran</string>
+</resources>
